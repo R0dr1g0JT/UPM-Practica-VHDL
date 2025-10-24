@@ -1,0 +1,11 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../PFA_PHR_25_M01.srcs/sources_1/imports/new/UART.vhd" \
+"../../../../PFA_PHR_25_M01.srcs/sources_1/imports/new/UART_NIR.vhd" \
+"../../../../PFA_PHR_25_M01.srcs/sources_1/imports/new/Main.vhd" \
+"../../../../PFA_PHR_25_M01.srcs/sim_1/imports/new/UART_NIR_Test.vhd" \
+"../../../../PFA_PHR_25_M01.srcs/sim_1/new/UART_RX_Test.vhd" \
+"../../../../PFA_PHR_25_M01.srcs/sim_1/new/UART_TX_Test.vhd" \
+
+# Do not sort compile order
+nosort
