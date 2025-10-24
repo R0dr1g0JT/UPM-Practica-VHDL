@@ -1,0 +1,10 @@
+0.7
+2020.2
+Nov  8 2024
+22:36:57
+D:/UPM/PHR/PFA_PHR_25_M01/PFA_PHR_25_M01.srcs/sim_1/imports/new/UART_NIR_Test.vhd,1747745698,vhdl,,,,uart_nir_test,,,,,,,,
+D:/UPM/PHR/PFA_PHR_25_M01/PFA_PHR_25_M01.srcs/sim_1/new/UART_RX_Test.vhd,1747591176,vhdl,,,,uart_rx_test,,,,,,,,
+D:/UPM/PHR/PFA_PHR_25_M01/PFA_PHR_25_M01.srcs/sim_1/new/UART_TX_Test.vhd,1747591501,vhdl,,,,uart_tx_test,,,,,,,,
+D:/UPM/PHR/PFA_PHR_25_M01/PFA_PHR_25_M01.srcs/sources_1/imports/new/Main.vhd,1747745577,vhdl,,,,main,,,,,,,,
+D:/UPM/PHR/PFA_PHR_25_M01/PFA_PHR_25_M01.srcs/sources_1/imports/new/UART.vhd,1747593144,vhdl,D:/UPM/PHR/PFA_PHR_25_M01/PFA_PHR_25_M01.srcs/sim_1/new/UART_RX_Test.vhd,,,uart,,,,,,,,
+D:/UPM/PHR/PFA_PHR_25_M01/PFA_PHR_25_M01.srcs/sources_1/imports/new/UART_NIR.vhd,1747746529,vhdl,,,,uart_nir,,,,,,,,

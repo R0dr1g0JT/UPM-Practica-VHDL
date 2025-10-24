@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "UART_NIR_Test_behav" "xil_defaultlib.UART_NIR_Test" -log "elaborate.log" 
